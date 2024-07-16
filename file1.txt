@@ -16,6 +16,7 @@ git checkout -b"branchname" - to jump to different branch or to create branch if
 git branch - to check or list the branches
 git fetch - to pick the latest changes
 git pull - to pick the changes and add the changes
+git merge origin/master - to get all the changes from master to branch
 git clone - to clone the repo to local from remote
 git config --global user.name "bhavani"  - to confirm your name to git (who u r)
 git config --global user.email "email"  - to confirm your email to git (who u r)
