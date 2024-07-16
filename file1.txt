@@ -14,7 +14,8 @@ git remote add origin https://github.com/saibhavanik/git-practice.git - to creat
 git push -u origin master - to push changes from local to remote
 git checkout -b"branchname" - to jump to different branch or to create branch if branch not exists
 git branch - to check or list the branches
-git fetch or git pull - to pick the latest changes
+git fetch - to pick the latest changes
+git pull - to pick the changes and add the changes
 git clone - to clone the repo to local from remote
 git config --global user.name "bhavani"  - to confirm your name to git (who u r)
 git config --global user.email "email"  - to confirm your email to git (who u r)
