@@ -1,0 +1,18 @@
+We have 4 stages normally ,
+1. working directory
+2.staging
+3.local respository
+4.remote repository
+
+Git commands:
+
+git init - to initialize git in the folder
+git status -  to check the file status on folder
+git add - to pass file from working dir to staging
+git commit -m"message" - to commit the req file from staging to local repo
+git remote add origin https://github.com/saibhavanik/git-practice.git - to create origin to remote repo to local
+git push -u origin master - to push changes from local to remote
+git checkout -b"branchname" - to jump to different branch or to create branch if branch not exists
+git branch - to check or list the branches
+git clone - to clone the repo to local from remote
+
